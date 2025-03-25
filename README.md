@@ -1,4 +1,10 @@
-# FCM-demo
+# FCM-demo With Backend
+
+### Acknowlegement
+
+This code is based on [vanshitaa-shah/FCM-demo](https://github.com/vanshitaa-shah/FCM-demo), I move them into directory `frontend` and I also add a Node.js backend server along side them.
+
+Thank you so much **vanshitaa-shah** for your kind knowledge sharing and your kind contribution to the open-source world.
 
 This project was bootstrapped with Vite and demonstrates the integration of Firebase Cloud Messaging (FCM) for push notifications in a React Vite application.
 
@@ -9,7 +15,7 @@ Before you begin, ensure you have the following installed:
 - Node.js and npm
 - Firebase account and project
 
-## Getting Started
+## Frontend - Getting Started
 
 1. Clone the repository:
 
@@ -20,7 +26,7 @@ Before you begin, ensure you have the following installed:
 2. Navigate to the project directory and install dependencies:
 
    ```bash
-   cd FCM-demo
+   cd FCM-demo-with-backend/frontend
    npm install
    ```
 
